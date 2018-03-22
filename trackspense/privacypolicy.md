@@ -1,4 +1,4 @@
-# Privacy Policy
+# Trackspense Privacy Policy
 
 Trackspense is an app with free ad-supported and commercial versions. The app is intended for use as is.
 
