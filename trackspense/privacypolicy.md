@@ -37,4 +37,4 @@ This Privacy Policy may update from time to time. Thus, users are advised to rev
 
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us.
 
-email: artempugachev1@gmail.com
+email: sigma.expense.tracker@gmail.com
