@@ -11,7 +11,11 @@ If you choose to use Sigma, then you agree to the collection and use of informat
 Sigma stores data inputted by the user locally on the user's device. The information is retained on user's device and is not collected by someone in any way. 
 The information is not sent to any external servers. Information is not stored in any cloud services.   
 
-Sigma does use third-party services that may collect information used to identify the user.
+## Usage Data
+Sigma may collect certaing information automatically, uncluding, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, 
+unique device identifiers and other diagnostic data ("Usage Data").
+
+Sigma does use third-party services that may collect information used to monitor and analyze the use of Sigma.
 
 Links to the privacy policy of third party service providers used by the app
 
@@ -19,6 +23,7 @@ Links to the privacy policy of third party service providers used by the app
 
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
+[Firebase] (https://firebase.google.com/policies/analytics/)
 
 ## Security
 Sigma striving to use commercially acceptable means of protecting user's personal information. 
